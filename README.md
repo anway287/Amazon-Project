@@ -2,7 +2,9 @@
 
 A functional Amazon Clone built with JavaScript, HTML, and CSS, featuring a backend for product data and unit testing with Jasmine.
 
-## Features
+
+## Features<img width="734" alt="Screenshot 2025-02-24 at 9 42 56 AM" src="https://github.com/user-attachments/assets/321fe425-c519-457c-911c-e259f6e1e5af" />
+
 
 - Home Page: Browse and search for products
 - Shopping Cart: Add/remove items, update quantities
