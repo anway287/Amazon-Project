@@ -1,3 +1,5 @@
+🛒 Amazon Clone
+
 A functional Amazon Clone built with JavaScript, HTML, and CSS, featuring a backend for product data and unit testing with Jasmine. This project replicates essential e-commerce functionalities, including product browsing, cart management, order checkout, tracking, and backend integration.
 
 🚀 Features
