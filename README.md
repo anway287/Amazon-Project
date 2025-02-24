@@ -35,7 +35,7 @@ npm install npm start
 ## Running Tests
 
 1. Navigate to the `tests` folder.
-2. Open `SpecRunner.html` in a browser.
+2. Open `tests.html` in a browser.
 
 ## Recent Updates
 
