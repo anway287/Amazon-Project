@@ -1,9 +1,9 @@
 # Amazon Clone
 
 A functional Amazon Clone built with JavaScript, HTML, and CSS, featuring a backend for product data and unit testing with Jasmine.
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/f7ba4596-0915-49d9-bf6b-c97d63a2d73a" />
 
 
-## Features<img width="734" alt="Screenshot 2025-02-24 at 9 42 56 AM" src="https://github.com/user-attachments/assets/321fe425-c519-457c-911c-e259f6e1e5af" />
 
 
 - Home Page: Browse and search for products
